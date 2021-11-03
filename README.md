@@ -8,7 +8,7 @@ Realización de un programa de cálculo de comisiones porcentuales respecto del 
 Voluntariado para asignatura Prácticas Iniciales, Sección F-
 
 
-*Integrantes del grupo:
+*Integrantes del grupo:*
 
   Diego Estuardo López Sequén 201901259
 

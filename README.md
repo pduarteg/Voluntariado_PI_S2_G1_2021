@@ -1,11 +1,10 @@
-# Sobre el voluntariado
+# Prácticas Iniciales, Voluntariado
+## Grupo 1, sección F-
 
-## Universidad de San Carlos de Guatemala
-## Facultad de Ingeniería, Escuela de Ciencias y Sistemas.
+*Universidad de San Carlos de Guatemala*
+*Facultad de Ingeniería, Escuela de Ciencias y Sistemas.*
 
 Realización de un programa de cálculo de comisiones porcentuales respecto del tiempo transcurrido entre la factura y la boleta correspondiente a una venta como del registro de dichos movimientos. Dirigido a DELHERS, S.A. como actividad de voluntariado con fines prácticos y de apoyo a la empresa para agilizar los procesos mencionados llevados de manera manual y poco eficiente hasta la fecha de la realización de la práctica buscando mejorar y optimizar a través del software desarrollado.
-
-Voluntariado para asignatura Prácticas Iniciales, Sección F-
 
 
 **Integrantes del grupo:**

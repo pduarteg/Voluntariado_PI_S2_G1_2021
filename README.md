@@ -1,5 +1,6 @@
-# Prácticas Iniciales, Voluntariado
-## Grupo 1, sección F-
+# Software de cálculo de comisiones
+## Prácticas Iniciales, Voluntariado
+### Grupo 1, sección F-
 
 *Universidad de San Carlos de Guatemala*
 

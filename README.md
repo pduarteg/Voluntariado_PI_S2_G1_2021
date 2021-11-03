@@ -21,14 +21,14 @@ Voluntariado para asignatura Prácticas Iniciales, Sección F-
   André Joaquín Ortega De Paz 201900597
 
 
-*Tutores del grupo:
+*Tutores del grupo:*
 
-Santiago Gilberto Rivadeneira Ruano 201313722
+  Santiago Gilberto Rivadeneira Ruano 201313722
 
-Wilfred Stewart Pérez Solórzano 201408419
+  Wilfred Stewart Pérez Solórzano 201408419
 
 
-*Catedrático del curso:
+*Catedrático del curso:*
 
-Ing. Herman Igor Veliz Linares
+  Ing. Herman Igor Veliz Linares
 

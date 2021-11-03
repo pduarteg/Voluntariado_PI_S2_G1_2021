@@ -1,6 +1,8 @@
-# Software de cálculo de comisiones
+# Software de cálculo de comisiones sobre ventas para DELHERS, S.A.
 ## Prácticas Iniciales, Voluntariado
-### Grupo 1, sección F-
+
+
+*Grupo 1, sección F-*
 
 *Universidad de San Carlos de Guatemala*
 

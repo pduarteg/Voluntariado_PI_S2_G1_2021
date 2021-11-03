@@ -8,7 +8,7 @@ Realización de un programa de cálculo de comisiones porcentuales respecto del 
 Voluntariado para asignatura Prácticas Iniciales, Sección F-
 
 
-*Integrantes del grupo:*
+**Integrantes del grupo:**
 
   Diego Estuardo López Sequén 201901259
 
@@ -21,14 +21,14 @@ Voluntariado para asignatura Prácticas Iniciales, Sección F-
   André Joaquín Ortega De Paz 201900597
 
 
-*Tutores del grupo:*
+**Tutores del grupo:**
 
   Santiago Gilberto Rivadeneira Ruano 201313722
 
   Wilfred Stewart Pérez Solórzano 201408419
 
 
-*Catedrático del curso:*
+**Catedrático del curso:**
 
   Ing. Herman Igor Veliz Linares
 
